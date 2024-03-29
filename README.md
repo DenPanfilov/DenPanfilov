@@ -61,6 +61,15 @@
 
 ## Follow Me
 
+<div id="badges">
+<a href="https://t.me/Denis_Panf" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt="telegram" />
+</a>
+    <a href="https://t.me/Denis_Panf" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="35" height="35" alt="linkedin" />
+    </a>
+
+  </div>
 
 
 <!--
