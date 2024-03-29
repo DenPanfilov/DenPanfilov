@@ -18,6 +18,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-bage&logo=PostgreSQL&logoColor=4169E1)
 ![Charles](https://img.shields.io/badge/Charles-000000?style=for-the-bage&logo=Charles&logoColor=F3F5F5)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-bage&logo=AndroidStudio&logoColor=3DDC84)
+![JMeter](https://img.shields.io/badge/JMeter-000000?style=for-the-bage&logo=ApacheJMeter&logoColor=D22128)
+![curl](https://img.shields.io/badge/curl-000000?style=for-the-bage&logo=curl&logoColor=073551)
+![Json](https://img.shields.io/badge/Json-000000?style=for-the-bage&logo=Json&logoColor=545454)
 
 ## Projects
 
