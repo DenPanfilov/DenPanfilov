@@ -6,6 +6,8 @@
 
 ## Tools and Language
 
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-bage&logo=jira&logoColor=0052CC)
+
 ## Projects
 
 **Проект 1**: тест раздела "Расписание" в веб-приложения для учителей от Skyeng
