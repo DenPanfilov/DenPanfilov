@@ -1,8 +1,8 @@
 ![Header](https://github.com/DenPanfilov/DenPanfilov/blob/main/assets/Header%20fot%20github.png)
 
-## Привет, меня зовут Денис! Я начинающий тестировщик.
-
-## My CV
+### Привет, меня зовут Денис! Я начинающий тестировщик.
+## CV
+ [Link to my CV 📇](https://t.me/Denis_Panf)
 
 ## Tools and Language
 
