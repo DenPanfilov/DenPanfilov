@@ -7,6 +7,17 @@
 ## Tools and Language
 
 ![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-bage&logo=jira&logoColor=0052CC)
+![Qase](https://img.shields.io/badge/Qase-000000?style=for-the-bage&logo=Qase&logoColor=4F46DC)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-bage&logo=Postman&logoColor=FF6C37)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-bage&logo=Swagger&logoColor=85EA2D)
+![Trello](https://img.shields.io/badge/Trello-000000?style=for-the-bage&logo=Trello&logoColor=0052CC)
+![Fiddler](https://img.shields.io/badge/Fiddler-000000?style=for-the-bage&logo=Fiddler)
+![SoapUI](https://img.shields.io/badge/SoapUI-000000?style=for-the-bage&logo=SoapUI)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-bage&logo=Git&logoColor=F05032)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-000000?style=for-the-bage&logo=ChromeDevTools)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-bage&logo=PostgreSQL&logoColor=4169E1)
+![Charles](https://img.shields.io/badge/Charles-000000?style=for-the-bage&logo=Charles&logoColor=F3F5F5)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-bage&logo=AndroidStudio&logoColor=3DDC84)
 
 ## Projects
 
