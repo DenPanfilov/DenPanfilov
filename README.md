@@ -2,7 +2,7 @@
 
 ### Привет, меня зовут Денис! Я начинающий тестировщик.
 ## CV
- [Link to my CV 📇](https://t.me/Denis_Panf)
+ >[Link to my CV 📇](https://t.me/Denis_Panf)
 
 ## Tools and Language
 
