@@ -3,7 +3,7 @@
 ### Привет, меня зовут Денис! Я начинающий тестировщик.
 
 ## About Me
- >[Link to my CV 📇](https://drive.google.com/file/d/11C1Kt1_v1lKmbuhGwrwQ6Pt1cu7M4sDd/view?usp=sharing)
+ >[Link to my CV 📇](https://drive.google.com/file/d/1Tayjd_OzfO0cichwslcUkeRDMAm2ZWPl/view?usp=sharing)
 
 ## Tools and Language
 
