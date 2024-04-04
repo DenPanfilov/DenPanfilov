@@ -67,7 +67,7 @@
 <a href="https://t.me/Denis_Panf" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt="telegram" />
 </a>
-    <a href="www.linkedin.com/in/denis-panfilov-a05b09291" target="_blank">
+    <a href="https://www.linkedin.com/in/denis-panfilov-a05b09291/?locale=en_US" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="35" height="35" alt="linkedin" />
     </a>
 
